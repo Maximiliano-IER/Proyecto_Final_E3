@@ -1,0 +1,24 @@
+EnergyPlus Starting
+EnergyPlus, Version 9.2.0-921312fa1d, YMD=2021.12.06 21:52
+Adjusting Air System Sizing
+Adjusting Standard 62.1 Ventilation Sizing
+Initializing Simulation
+Reporting Surfaces
+Beginning Primary Simulation
+Initializing New Environment Parameters
+Warming up {1}
+Warming up {2}
+Warming up {3}
+Warming up {4}
+Warming up {5}
+Warming up {6}
+Starting Simulation at 05/03/2006 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=05/23/2006
+Continuing Simulation at 05/23/2006 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=06/12/2006
+Continuing Simulation at 06/12/2006 for RUN PERIOD 1
+Writing tabular output file results using HTML format.
+Computing Life Cycle Costs and Reporting
+Writing final SQL reports
+EnergyPlus Run Time=00hr 00min  2.75sec
+EnergyPlus Completed Successfully.

@@ -1,0 +1,21 @@
+{
+   "completed_at" : "20211207T032801Z",
+   "completed_status" : "Fail",
+   "created_at" : "20211207T015949Z",
+   "current_step" : 0,
+   "eplusout_err" : "Program Version,EnergyPlus, Version 9.2.0-921312fa1d, YMD=2021.12.06 21:28,\n   ** Severe  ** <root>[BuildingSurface:Detailed][Surface 1] - Missing required property 'construction_name'.\n   ** Severe  ** <root>[FenestrationSurface:Detailed][Sub Surface 11] - Missing required property 'construction_name'.\n   **  Fatal  ** Errors occurred on processing input file. Preceding condition(s) cause termination.\n   ...Summary of Errors that led to program termination:\n   ..... Reference severe error count=2\n   ..... Last severe error=<root>[FenestrationSurface:Detailed][Sub Surface 11] - Missing required property 'construction_name'.\n   ************* Warning:  Node connection errors not checked - most system input has not been read (see previous warning).\n   ************* Fatal error -- final processing.  Program exited before simulations began.  See previous error messages.\n   ************* EnergyPlus Warmup Error Summary. During Warmup: 0 Warning; 0 Severe Errors.\n   ************* EnergyPlus Sizing Error Summary. During Sizing: 0 Warning; 0 Severe Errors.\n   ************* EnergyPlus Terminated--Fatal Error Detected. 0 Warning; 2 Severe Errors; Elapsed Time=00hr 00min  0.68sec\n",
+   "file_paths" : [
+      "C:/Users/maxi_/AppData/Local/Temp/OpenStudioApp.rs6756/resources/generated_files",
+      "./files",
+      "./weather",
+      "../../files",
+      "../../weather",
+      "./"
+   ],
+   "hash" : "1879151D",
+   "seed_file" : "../Proyecto_Final_007.osm",
+   "started_at" : "20211207T032749Z",
+   "steps" : [],
+   "updated_at" : "20211207T032801Z",
+   "weather_file" : "TemixcoEsolmet2019CST.epw"
+}

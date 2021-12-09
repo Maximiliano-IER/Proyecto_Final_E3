@@ -1,0 +1,402 @@
+
+ Meters for 8,HPLASERJET:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE: CUBI_JORGE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE: CUBI_JORGE [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 81,IMAC:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE: CUBI_JORGE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE: CUBI_JORGE [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 82,TELPHONE:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE: CUBI_JORGE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE: CUBI_JORGE [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 83,MONITORDELL:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE: CUBI_JORGE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE: CUBI_JORGE [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 84,FUENTEDEPODER:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE: CUBI_JORGE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE: CUBI_JORGE [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 85,AGILENT:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE: CUBI_JORGE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE: CUBI_JORGE [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 86,REGULADOR:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE: CUBI_JORGE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE: CUBI_JORGE [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 93,THERMAL ZONE: CUBI_1:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE: CUBI_1 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:THERMAL ZONE: CUBI_1 [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+
+ Meters for 166,THERMAL ZONE: CUBI_1:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE: CUBI_1 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:THERMAL ZONE: CUBI_1 [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+
+ Meters for 203,THERMAL ZONE: CUBI_2:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE: CUBI_2 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:THERMAL ZONE: CUBI_2 [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+
+ Meters for 228,THERMAL ZONE: CUBI_2:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE: CUBI_2 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:THERMAL ZONE: CUBI_2 [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+
+ Meters for 241,THERMAL ZONE: CUBI_JORGE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE: CUBI_JORGE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:THERMAL ZONE: CUBI_JORGE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+
+ Meters for 266,THERMAL ZONE: CUBI_JORGE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE: CUBI_JORGE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:THERMAL ZONE: CUBI_JORGE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+
+ Meters for 279,THERMAL ZONE: TECHO_1:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE: TECHO_1 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:THERMAL ZONE: TECHO_1 [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+
+ Meters for 304,THERMAL ZONE: TECHO_1:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE: TECHO_1 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:THERMAL ZONE: TECHO_1 [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+
+ Meters for 317,THERMAL ZONE: TECHO_2:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE: TECHO_2 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:THERMAL ZONE: TECHO_2 [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+
+ Meters for 342,THERMAL ZONE: TECHO_2:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE: TECHO_2 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:THERMAL ZONE: TECHO_2 [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+
+ Meters for 355,THERMAL ZONE: TECHO_JORGE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE: TECHO_JORGE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:THERMAL ZONE: TECHO_JORGE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+
+ Meters for 380,THERMAL ZONE: TECHO_JORGE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE: TECHO_JORGE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:THERMAL ZONE: TECHO_JORGE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+
+ Meters for 393,Whole Building:Facility Total Purchased Electricity Energy [J]
+  OnMeter=ElectricityPurchased:Facility [J]
+  OnMeter=ElectricityPurchased:Plant [J]
+  OnMeter=Cogeneration:ElectricityPurchased [J]
+  OnMeter=General:Cogeneration:ElectricityPurchased [J]
+
+ Meters for 442,Whole Building:Facility Total Surplus Electricity Energy [J]
+  OnMeter=ElectricitySurplusSold:Facility [J]
+  OnMeter=ElectricitySurplusSold:Plant [J]
+  OnMeter=Cogeneration:ElectricitySurplusSold [J]
+  OnMeter=General:Cogeneration:ElectricitySurplusSold [J]
+
+ Meters for 491,Whole Building:Facility Net Purchased Electricity Energy [J]
+  OnMeter=ElectricityNet:Facility [J]
+  OnMeter=ElectricityNet:Plant [J]
+  OnMeter=Cogeneration:ElectricityNet [J]
+  OnMeter=General:Cogeneration:ElectricityNet [J]
+
+ Meters for 540,Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 565,Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 566,Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ For Meter=Electricity:Facility [J], ResourceType=Electricity, contents are:
+  HPLASERJET:Electric Equipment Electricity Energy
+  IMAC:Electric Equipment Electricity Energy
+  TELPHONE:Electric Equipment Electricity Energy
+  MONITORDELL:Electric Equipment Electricity Energy
+  FUENTEDEPODER:Electric Equipment Electricity Energy
+  AGILENT:Electric Equipment Electricity Energy
+  REGULADOR:Electric Equipment Electricity Energy
+
+ For Meter=Electricity:Building [J], ResourceType=Electricity, Group=Building, contents are:
+  HPLASERJET:Electric Equipment Electricity Energy
+  IMAC:Electric Equipment Electricity Energy
+  TELPHONE:Electric Equipment Electricity Energy
+  MONITORDELL:Electric Equipment Electricity Energy
+  FUENTEDEPODER:Electric Equipment Electricity Energy
+  AGILENT:Electric Equipment Electricity Energy
+  REGULADOR:Electric Equipment Electricity Energy
+
+ For Meter=Electricity:Zone:THERMAL ZONE: CUBI_JORGE [J], ResourceType=Electricity, Group=Zone, contents are:
+  HPLASERJET:Electric Equipment Electricity Energy
+  IMAC:Electric Equipment Electricity Energy
+  TELPHONE:Electric Equipment Electricity Energy
+  MONITORDELL:Electric Equipment Electricity Energy
+  FUENTEDEPODER:Electric Equipment Electricity Energy
+  AGILENT:Electric Equipment Electricity Energy
+  REGULADOR:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  HPLASERJET:Electric Equipment Electricity Energy
+  IMAC:Electric Equipment Electricity Energy
+  TELPHONE:Electric Equipment Electricity Energy
+  MONITORDELL:Electric Equipment Electricity Energy
+  FUENTEDEPODER:Electric Equipment Electricity Energy
+  AGILENT:Electric Equipment Electricity Energy
+  REGULADOR:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:THERMAL ZONE: CUBI_JORGE [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  HPLASERJET:Electric Equipment Electricity Energy
+  IMAC:Electric Equipment Electricity Energy
+  TELPHONE:Electric Equipment Electricity Energy
+  MONITORDELL:Electric Equipment Electricity Energy
+  FUENTEDEPODER:Electric Equipment Electricity Energy
+  AGILENT:Electric Equipment Electricity Energy
+  REGULADOR:Electric Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  HPLASERJET:Electric Equipment Electricity Energy
+  IMAC:Electric Equipment Electricity Energy
+  TELPHONE:Electric Equipment Electricity Energy
+  MONITORDELL:Electric Equipment Electricity Energy
+  FUENTEDEPODER:Electric Equipment Electricity Energy
+  AGILENT:Electric Equipment Electricity Energy
+  REGULADOR:Electric Equipment Electricity Energy
+
+ For Meter=EnergyTransfer:Facility [J], ResourceType=EnergyTransfer, contents are:
+  THERMAL ZONE: CUBI_1:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: CUBI_1:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: CUBI_2:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: CUBI_2:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: CUBI_JORGE:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: CUBI_JORGE:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: TECHO_1:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: TECHO_1:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: TECHO_2:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: TECHO_2:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: TECHO_JORGE:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: TECHO_JORGE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Building [J], ResourceType=EnergyTransfer, Group=Building, contents are:
+  THERMAL ZONE: CUBI_1:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: CUBI_1:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: CUBI_2:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: CUBI_2:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: CUBI_JORGE:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: CUBI_JORGE:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: TECHO_1:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: TECHO_1:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: TECHO_2:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: TECHO_2:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: TECHO_JORGE:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: TECHO_JORGE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:THERMAL ZONE: CUBI_1 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  THERMAL ZONE: CUBI_1:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: CUBI_1:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Heating, contents are:
+  THERMAL ZONE: CUBI_1:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: CUBI_2:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: CUBI_JORGE:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: TECHO_1:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: TECHO_2:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: TECHO_JORGE:Zone Air System Sensible Heating Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:THERMAL ZONE: CUBI_1 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  THERMAL ZONE: CUBI_1:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Heating, contents are:
+  THERMAL ZONE: CUBI_1:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: CUBI_2:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: CUBI_JORGE:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: TECHO_1:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: TECHO_2:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: TECHO_JORGE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Cooling, contents are:
+  THERMAL ZONE: CUBI_1:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: CUBI_2:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: CUBI_JORGE:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: TECHO_1:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: TECHO_2:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: TECHO_JORGE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:THERMAL ZONE: CUBI_1 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  THERMAL ZONE: CUBI_1:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Cooling, contents are:
+  THERMAL ZONE: CUBI_1:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: CUBI_2:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: CUBI_JORGE:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: TECHO_1:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: TECHO_2:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: TECHO_JORGE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:THERMAL ZONE: CUBI_2 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  THERMAL ZONE: CUBI_2:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: CUBI_2:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:THERMAL ZONE: CUBI_2 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  THERMAL ZONE: CUBI_2:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:THERMAL ZONE: CUBI_2 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  THERMAL ZONE: CUBI_2:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:THERMAL ZONE: CUBI_JORGE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  THERMAL ZONE: CUBI_JORGE:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: CUBI_JORGE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:THERMAL ZONE: CUBI_JORGE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  THERMAL ZONE: CUBI_JORGE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:THERMAL ZONE: CUBI_JORGE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  THERMAL ZONE: CUBI_JORGE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:THERMAL ZONE: TECHO_1 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  THERMAL ZONE: TECHO_1:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: TECHO_1:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:THERMAL ZONE: TECHO_1 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  THERMAL ZONE: TECHO_1:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:THERMAL ZONE: TECHO_1 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  THERMAL ZONE: TECHO_1:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:THERMAL ZONE: TECHO_2 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  THERMAL ZONE: TECHO_2:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: TECHO_2:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:THERMAL ZONE: TECHO_2 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  THERMAL ZONE: TECHO_2:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:THERMAL ZONE: TECHO_2 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  THERMAL ZONE: TECHO_2:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:THERMAL ZONE: TECHO_JORGE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  THERMAL ZONE: TECHO_JORGE:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: TECHO_JORGE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:THERMAL ZONE: TECHO_JORGE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  THERMAL ZONE: TECHO_JORGE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:THERMAL ZONE: TECHO_JORGE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  THERMAL ZONE: TECHO_JORGE:Zone Air System Sensible Cooling Energy
+
+ For Meter=ElectricityPurchased:Facility [J], ResourceType=ElectricityPurchased, contents are:
+  Whole Building:Facility Total Purchased Electricity Energy
+
+ For Meter=ElectricityPurchased:Plant [J], ResourceType=ElectricityPurchased, Group=Plant, contents are:
+  Whole Building:Facility Total Purchased Electricity Energy
+
+ For Meter=Cogeneration:ElectricityPurchased [J], ResourceType=ElectricityPurchased, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Purchased Electricity Energy
+
+ For Meter=General:Cogeneration:ElectricityPurchased [J], ResourceType=ElectricityPurchased, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Purchased Electricity Energy
+
+ For Meter=ElectricitySurplusSold:Facility [J], ResourceType=ElectricitySurplusSold, contents are:
+  Whole Building:Facility Total Surplus Electricity Energy
+
+ For Meter=ElectricitySurplusSold:Plant [J], ResourceType=ElectricitySurplusSold, Group=Plant, contents are:
+  Whole Building:Facility Total Surplus Electricity Energy
+
+ For Meter=Cogeneration:ElectricitySurplusSold [J], ResourceType=ElectricitySurplusSold, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Surplus Electricity Energy
+
+ For Meter=General:Cogeneration:ElectricitySurplusSold [J], ResourceType=ElectricitySurplusSold, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Surplus Electricity Energy
+
+ For Meter=ElectricityNet:Facility [J], ResourceType=ElectricityNet, contents are:
+  Whole Building:Facility Net Purchased Electricity Energy
+
+ For Meter=ElectricityNet:Plant [J], ResourceType=ElectricityNet, Group=Plant, contents are:
+  Whole Building:Facility Net Purchased Electricity Energy
+
+ For Meter=Cogeneration:ElectricityNet [J], ResourceType=ElectricityNet, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Net Purchased Electricity Energy
+
+ For Meter=General:Cogeneration:ElectricityNet [J], ResourceType=ElectricityNet, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Net Purchased Electricity Energy
+
+ For Meter=Carbon Equivalent:Facility [kg], ResourceType=Carbon Equivalent, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass
+
+ For Meter=CarbonEquivalentEmissions:Carbon Equivalent [kg], ResourceType=Carbon Equivalent, EndUse=CarbonEquivalentEmissions, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass

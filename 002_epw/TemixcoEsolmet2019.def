@@ -1,0 +1,30 @@
+&location
+City='Temixco'
+StateProv='Morelos'
+Country='MEX'
+InLat=18.85
+InLong=-99.14
+InElev=1280
+InTime=-6
+/
+
+&miscdata
+Comments1='Archivo generado por Paola Olvera y Maximiliano Olivares Flores a partir de datos de la ESOLMET y RUOA 2018'
+Comments2='proporcionados por Guillermo Barrios en el repo https://github.com/AltamarMx/proyecto_final_EE.git'
+SourceData='repo https://github.com/AltamarMx/proyecto_final_EE.git'
+/
+
+&wthdata
+NumInHour=6
+InputFileType='CUSTOM'
+InFormat='DELIMITED'
+DataElements=Year,Month,Day,Hour,Minute,dirnorrad,glohorrad,difhorrad,DryBulb,relhum,windspd,atmos pressure,winddir
+DataUnits=x,x,x,x,x,'Wh/m2','Wh/m2','Wh/m2','C','%','m/s','Pa','degree'
+DataConversionFactors=1,1,1,1,1,1,1
+DelimiterChar=','
+/
+
+&datacontrol
+NumRecordsToSkip=0
+MaxNumRecordsToRead=7633
+/

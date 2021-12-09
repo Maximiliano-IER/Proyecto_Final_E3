@@ -1,0 +1,12 @@
+Program Version,EnergyPlus, Version 9.2.0-921312fa1d, YMD=2021.12.06 21:28,
+   ** Severe  ** <root>[BuildingSurface:Detailed][Surface 1] - Missing required property 'construction_name'.
+   ** Severe  ** <root>[FenestrationSurface:Detailed][Sub Surface 11] - Missing required property 'construction_name'.
+   **  Fatal  ** Errors occurred on processing input file. Preceding condition(s) cause termination.
+   ...Summary of Errors that led to program termination:
+   ..... Reference severe error count=2
+   ..... Last severe error=<root>[FenestrationSurface:Detailed][Sub Surface 11] - Missing required property 'construction_name'.
+   ************* Warning:  Node connection errors not checked - most system input has not been read (see previous warning).
+   ************* Fatal error -- final processing.  Program exited before simulations began.  See previous error messages.
+   ************* EnergyPlus Warmup Error Summary. During Warmup: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Sizing Error Summary. During Sizing: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Terminated--Fatal Error Detected. 0 Warning; 2 Severe Errors; Elapsed Time=00hr 00min  0.68sec
