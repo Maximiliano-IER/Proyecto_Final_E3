@@ -1,0 +1,210 @@
+
+ Meters for 9,THERMAL ZONE: CUBI_1:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE: CUBI_1 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:THERMAL ZONE: CUBI_1 [J]
+
+ Meters for 70,THERMAL ZONE: CUBI_1:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE: CUBI_1 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:THERMAL ZONE: CUBI_1 [J]
+
+ Meters for 97,THERMAL ZONE: CUBI_2:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE: CUBI_2 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:THERMAL ZONE: CUBI_2 [J]
+
+ Meters for 122,THERMAL ZONE: CUBI_2:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE: CUBI_2 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:THERMAL ZONE: CUBI_2 [J]
+
+ Meters for 137,THERMAL ZONE: CUBI_JORGE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE: CUBI_JORGE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:THERMAL ZONE: CUBI_JORGE [J]
+
+ Meters for 162,THERMAL ZONE: CUBI_JORGE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE: CUBI_JORGE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:THERMAL ZONE: CUBI_JORGE [J]
+
+ Meters for 177,THERMAL ZONE: TECHO_1:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE: TECHO_1 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:THERMAL ZONE: TECHO_1 [J]
+
+ Meters for 202,THERMAL ZONE: TECHO_1:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE: TECHO_1 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:THERMAL ZONE: TECHO_1 [J]
+
+ Meters for 217,THERMAL ZONE: TECHO_2:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE: TECHO_2 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:THERMAL ZONE: TECHO_2 [J]
+
+ Meters for 242,THERMAL ZONE: TECHO_2:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE: TECHO_2 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:THERMAL ZONE: TECHO_2 [J]
+
+ Meters for 257,THERMAL ZONE: TECHO_JORGE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE: TECHO_JORGE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:THERMAL ZONE: TECHO_JORGE [J]
+
+ Meters for 282,THERMAL ZONE: TECHO_JORGE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE: TECHO_JORGE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:THERMAL ZONE: TECHO_JORGE [J]
+
+ Meters for 297,Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 322,Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 323,Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ For Meter=EnergyTransfer:Facility [J], ResourceType=EnergyTransfer, contents are:
+  THERMAL ZONE: CUBI_1:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: CUBI_1:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: CUBI_2:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: CUBI_2:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: CUBI_JORGE:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: CUBI_JORGE:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: TECHO_1:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: TECHO_1:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: TECHO_2:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: TECHO_2:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: TECHO_JORGE:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: TECHO_JORGE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Building [J], ResourceType=EnergyTransfer, Group=Building, contents are:
+  THERMAL ZONE: CUBI_1:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: CUBI_1:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: CUBI_2:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: CUBI_2:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: CUBI_JORGE:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: CUBI_JORGE:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: TECHO_1:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: TECHO_1:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: TECHO_2:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: TECHO_2:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: TECHO_JORGE:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: TECHO_JORGE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:THERMAL ZONE: CUBI_1 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  THERMAL ZONE: CUBI_1:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: CUBI_1:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Heating, contents are:
+  THERMAL ZONE: CUBI_1:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: CUBI_2:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: CUBI_JORGE:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: TECHO_1:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: TECHO_2:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: TECHO_JORGE:Zone Air System Sensible Heating Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:THERMAL ZONE: CUBI_1 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  THERMAL ZONE: CUBI_1:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Cooling, contents are:
+  THERMAL ZONE: CUBI_1:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: CUBI_2:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: CUBI_JORGE:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: TECHO_1:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: TECHO_2:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE: TECHO_JORGE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:THERMAL ZONE: CUBI_1 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  THERMAL ZONE: CUBI_1:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:THERMAL ZONE: CUBI_2 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  THERMAL ZONE: CUBI_2:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: CUBI_2:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:THERMAL ZONE: CUBI_2 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  THERMAL ZONE: CUBI_2:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:THERMAL ZONE: CUBI_2 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  THERMAL ZONE: CUBI_2:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:THERMAL ZONE: CUBI_JORGE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  THERMAL ZONE: CUBI_JORGE:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: CUBI_JORGE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:THERMAL ZONE: CUBI_JORGE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  THERMAL ZONE: CUBI_JORGE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:THERMAL ZONE: CUBI_JORGE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  THERMAL ZONE: CUBI_JORGE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:THERMAL ZONE: TECHO_1 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  THERMAL ZONE: TECHO_1:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: TECHO_1:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:THERMAL ZONE: TECHO_1 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  THERMAL ZONE: TECHO_1:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:THERMAL ZONE: TECHO_1 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  THERMAL ZONE: TECHO_1:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:THERMAL ZONE: TECHO_2 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  THERMAL ZONE: TECHO_2:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: TECHO_2:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:THERMAL ZONE: TECHO_2 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  THERMAL ZONE: TECHO_2:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:THERMAL ZONE: TECHO_2 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  THERMAL ZONE: TECHO_2:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:THERMAL ZONE: TECHO_JORGE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  THERMAL ZONE: TECHO_JORGE:Zone Air System Sensible Heating Energy
+  THERMAL ZONE: TECHO_JORGE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:THERMAL ZONE: TECHO_JORGE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  THERMAL ZONE: TECHO_JORGE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:THERMAL ZONE: TECHO_JORGE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  THERMAL ZONE: TECHO_JORGE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Carbon Equivalent:Facility [kg], ResourceType=Carbon Equivalent, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass
+
+ For Meter=CarbonEquivalentEmissions:Carbon Equivalent [kg], ResourceType=Carbon Equivalent, EndUse=CarbonEquivalentEmissions, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass
