@@ -45,5 +45,3 @@ Contiene los notebooks de python usados para realizar las gráficas y recopilato
 008_Presentacion/
 
 Contiene la presentación en formato PowerPoint realizada para este proyecto explicando el desarrollo del mismo.
-
-009
